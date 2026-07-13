@@ -4,7 +4,7 @@ export const regions = [
     name: "Samarqand",
     uzbekName: "Самарқанд",
     description: "The Jewel of Central Asia - ancient Silk Road city",
-    image: "https://images.unsplash.com/photo-1518152006812-338c4b90e537?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/78/PM/lS/78PmlS2QB.jpg",
     highlights: [
       "Registan Square - UNESCO World Heritage Site",
       "Shah-i-Zinda Necropolis",
@@ -27,7 +27,7 @@ export const regions = [
     name: "Bukhara",
     uzbekName: "Бухоро",
     description: "Ancient trading hub with preserved medieval architecture",
-    image: "https://images.unsplash.com/photo-1570829460005-c840387bb1ca?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/2V/MC/f9/2VMCf9HNH.jpg",
     highlights: [
       "Ark Fortress",
       "Poi Kalon Complex",
@@ -50,7 +50,7 @@ export const regions = [
     name: "Khiva",
     uzbekName: "Хива",
     description: "Perfectly preserved walled city - ancient fortress capital",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/DQ/HL/4C/DQHL4C6Sg.jpg",
     highlights: [
       "Itchan Kala (Inner City)",
       "Kunya-Ark Fortress",
@@ -72,17 +72,17 @@ export const regions = [
     id: 4,
     name: "Tashkent",
     uzbekName: "Ташкент",
-    description: "Modern capital city blending Soviet heritage with contemporary culture",
+    description: "Modern capital city with Kungurbuka Mountain views",
     image: "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600&h=400&fit=crop",
     highlights: [
       "Chorsu Bazaar",
       "State Museum of History",
       "Khast Imam Square",
-      "Independence Monument"
+      "Kungurbuka Mountain"
     ],
     localExperiences: [
       "Modern café culture tours",
-      "Public transport exploration",
+      "Mountain hiking expeditions",
       "Contemporary art galleries",
       "Local street food tours"
     ],
@@ -96,7 +96,7 @@ export const regions = [
     name: "Shahrisabz",
     uzbekName: "Шахрисабз",
     description: "Birthplace of Amir Timur - mountain city with stunning palace ruins",
-    image: "https://images.unsplash.com/photo-1504681869696-d977211a0d78?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/3A/r3/yB/3Ar3yBYhq.jpg",
     highlights: [
       "Ak-Saray Palace ruins",
       "Khazrati-Imam Complex",
@@ -119,7 +119,7 @@ export const regions = [
     name: "Urgench",
     uzbekName: "Ўргенч",
     description: "Gateway to Khorezm - access to ancient Khorezm civilization sites",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/U5/po/hB/U5pohBfvB.jpg",
     highlights: [
       "Khorezm History Museum",
       "Ancient city ruins nearby",
@@ -142,7 +142,7 @@ export const regions = [
     name: "Fergona",
     uzbekName: "Фарғона",
     description: "The Pearl of Uzbekistan - fertile valley surrounded by mountains",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/23/HL/tz/23HLtzLAv.jpg",
     highlights: [
       "Fergona Valley landscapes",
       "Traditional silk production",
@@ -165,7 +165,7 @@ export const regions = [
     name: "Namangan",
     uzbekName: "Наманган",
     description: "Historic city at the foothills - gateway to mountain adventures",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/39/Hk/rD/39HkrDUQm.jpg",
     highlights: [
       "City bazaars and markets",
       "Nearby mountain trails",
@@ -188,7 +188,7 @@ export const regions = [
     name: "Andijon",
     uzbekName: "Андижон",
     description: "Birthplace of Babur - historic city with rich cultural heritage",
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    image: "https://i.pinimg.com/originals/48/bl/yG/48blyGUyK.jpg",
     highlights: [
       "Babur Museum and Gardens",
       "Old city bazaar",
