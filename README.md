@@ -18,7 +18,7 @@ BeLocal is a revolutionary platform connecting tourists with authentic local exp
 
 ## 🏙️ Our Cities
 
-1. **Samarqand** 🕌 - Jewel of Central Asia
+1. **Samarqand** 🕌 - Heart of historic and ancient buildings
 2. **Bukhara** 🏛️ - Ancient trading hub
 3. **Khiva** 🏜️ - Perfectly preserved walled city
 4. **Tashkent** 🌆 - Modern capital city
@@ -179,8 +179,8 @@ MIT License - Feel free to use this for your pitch deck!
 ## 🤝 Support
 
 For questions or feedback about BeLocal, reach out at:
-- Email: hello@belocal.uz
-- Phone: +998 71 123 45 67
+- Email: dilnoza@belocal.uz
+- Phone: +998 886938558
 
 ---
 
