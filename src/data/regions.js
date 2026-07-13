@@ -4,6 +4,7 @@ export const regions = [
     name: "Samarqand",
     uzbekName: "Самарқанд",
     description: "The Jewel of Central Asia - ancient Silk Road city",
+    image: "https://images.unsplash.com/photo-1518152006812-338c4b90e537?w=600&h=400&fit=crop",
     highlights: [
       "Registan Square - UNESCO World Heritage Site",
       "Shah-i-Zinda Necropolis",
@@ -18,7 +19,7 @@ export const regions = [
     ],
     guides: 45,
     restaurants: 38,
-    image: "🕌",
+    emoji: "🕌",
     color: "from-blue-600 to-blue-800"
   },
   {
@@ -26,6 +27,7 @@ export const regions = [
     name: "Bukhara",
     uzbekName: "Бухоро",
     description: "Ancient trading hub with preserved medieval architecture",
+    image: "https://images.unsplash.com/photo-1570829460005-c840387bb1ca?w=600&h=400&fit=crop",
     highlights: [
       "Ark Fortress",
       "Poi Kalon Complex",
@@ -40,7 +42,7 @@ export const regions = [
     ],
     guides: 32,
     restaurants: 28,
-    image: "🏛️",
+    emoji: "🏛️",
     color: "from-amber-600 to-amber-800"
   },
   {
@@ -48,6 +50,7 @@ export const regions = [
     name: "Khiva",
     uzbekName: "Хива",
     description: "Perfectly preserved walled city - ancient fortress capital",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
     highlights: [
       "Itchan Kala (Inner City)",
       "Kunya-Ark Fortress",
@@ -62,7 +65,7 @@ export const regions = [
     ],
     guides: 28,
     restaurants: 22,
-    image: "🏜️",
+    emoji: "🏜️",
     color: "from-orange-600 to-orange-800"
   },
   {
@@ -70,6 +73,7 @@ export const regions = [
     name: "Tashkent",
     uzbekName: "Ташкент",
     description: "Modern capital city blending Soviet heritage with contemporary culture",
+    image: "https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=600&h=400&fit=crop",
     highlights: [
       "Chorsu Bazaar",
       "State Museum of History",
@@ -84,7 +88,7 @@ export const regions = [
     ],
     guides: 56,
     restaurants: 67,
-    image: "🌆",
+    emoji: "🌆",
     color: "from-gray-600 to-gray-800"
   },
   {
@@ -92,6 +96,7 @@ export const regions = [
     name: "Shahrisabz",
     uzbekName: "Шахрисабз",
     description: "Birthplace of Amir Timur - mountain city with stunning palace ruins",
+    image: "https://images.unsplash.com/photo-1504681869696-d977211a0d78?w=600&h=400&fit=crop",
     highlights: [
       "Ak-Saray Palace ruins",
       "Khazrati-Imam Complex",
@@ -106,7 +111,7 @@ export const regions = [
     ],
     guides: 18,
     restaurants: 15,
-    image: "⛰️",
+    emoji: "⛰️",
     color: "from-green-700 to-green-900"
   },
   {
@@ -114,6 +119,7 @@ export const regions = [
     name: "Urgench",
     uzbekName: "Ўргенч",
     description: "Gateway to Khorezm - access to ancient Khorezm civilization sites",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
     highlights: [
       "Khorezm History Museum",
       "Ancient city ruins nearby",
@@ -128,8 +134,77 @@ export const regions = [
     ],
     guides: 22,
     restaurants: 18,
-    image: "🌊",
+    emoji: "🌊",
     color: "from-cyan-600 to-cyan-800"
+  },
+  {
+    id: 7,
+    name: "Fergona",
+    uzbekName: "Фарғона",
+    description: "The Pearl of Uzbekistan - fertile valley surrounded by mountains",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    highlights: [
+      "Fergona Valley landscapes",
+      "Traditional silk production",
+      "Local orchards and gardens",
+      "Mountain trekking routes"
+    ],
+    localExperiences: [
+      "Silk weaving workshops",
+      "Orchard tours and fruit picking",
+      "Traditional village homestays",
+      "Local bazaar shopping"
+    ],
+    guides: 20,
+    restaurants: 18,
+    emoji: "🌾",
+    color: "from-yellow-600 to-yellow-800"
+  },
+  {
+    id: 8,
+    name: "Namangan",
+    uzbekName: "Наманган",
+    description: "Historic city at the foothills - gateway to mountain adventures",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    highlights: [
+      "City bazaars and markets",
+      "Nearby mountain trails",
+      "Historical monuments",
+      "Local cultural sites"
+    ],
+    localExperiences: [
+      "Mountain hiking expeditions",
+      "Local family meals",
+      "Handicraft workshops",
+      "Traditional horse riding"
+    ],
+    guides: 16,
+    restaurants: 14,
+    emoji: "🏔️",
+    color: "from-purple-600 to-purple-800"
+  },
+  {
+    id: 9,
+    name: "Andijon",
+    uzbekName: "Андижон",
+    description: "Birthplace of Babur - historic city with rich cultural heritage",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop",
+    highlights: [
+      "Babur Museum and Gardens",
+      "Old city bazaar",
+      "Historical monuments",
+      "Cultural performance venues"
+    ],
+    localExperiences: [
+      "Babur heritage tours",
+      "Traditional crafts learning",
+      "Local music performances",
+      "Family-style dinners"
+    ],
+    guides: 18,
+    restaurants: 16,
+    emoji: "🏛️",
+    color: "from-red-600 to-red-800"
   }
 ];
 
@@ -170,7 +245,7 @@ export const howItWorks = [
   {
     step: 1,
     title: "Choose Your Region",
-    description: "Select from Tashkent, Samarqand, Bukhara, Khiva, Shahrisabz, or Urgench"
+    description: "Select from 9 amazing Uzbek cities"
   },
   {
     step: 2,
